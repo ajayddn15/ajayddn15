@@ -36,3 +36,9 @@ Here are some ideas to get you started:
 <a href="https://www.codechef.com/users/naman3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="naman3" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/coolnamanp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="coolnamanp" height="30" width="40" /></a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
+
