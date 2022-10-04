@@ -1,10 +1,16 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=4:6FC7E1,363636:f7f5f5&height=300&section=header&text=hello%20heyyyy&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62)
+<p align='center'> Decorate GitHub Profile or any Repo like me! </p>
+<p align='center'>
+
+<div align=center>
+      
+![Profile Views](https://komarev.com/ghpvc/?username=ajayddn15)
+      </div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️
-
-
 
 
 <!--
@@ -37,8 +43,8 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/coolnamanp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="coolnamanp" height="30" width="40" /></a>
 </p>
 
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
-
