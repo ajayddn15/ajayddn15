@@ -7,7 +7,28 @@
 <div align=center>
       
 ![Profile Views](https://komarev.com/ghpvc/?username=ajayddn15)
-      </div>
+</div>
+
+
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a>
+</div>
+
+
+
+
+<h1 align="center">Hi 👋, I'm Manu Arya</h1>
+<h3 align="center">A passionate frontend developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manuarya161-0&label=Profile%20views&color=0e75b6&style=flat" alt="manuarya161-0" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️
